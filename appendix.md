@@ -5,7 +5,7 @@ Todo el código empleado se presenta a continuación, este y el resto de archivo
 ## ----setup, include=FALSE------------------------------------------------------------------------------------------------------
 knitr::opts_chunk$set(echo = FALSE, comment = NULL)
 # Guardamos en el vector packages los paquetes que vamos a usar
-packages_bioconductor <- c("Biobase","oligo", "arrayQualityMetrics", "genefilter","limma","rae230a.db",
+packages_bioconductor <- c("Biobase","oligo", "arrayQualityMetrics", "genefilterc","limma","rae230a.db",
 "pd.rae230a","xtable", "annotate", "GOstats")
 packages<-c("dplyr", "gplots")
 
