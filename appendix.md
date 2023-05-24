@@ -1,5 +1,5 @@
 
-Todo el código empleado se presenta a continuación, este y el resto de archivos generados durante las práctica pueden ser encontrado en el siguiente repositorio: https://github.com/corgazp/ADO-PEC2 
+Todo el código empleado se presenta a ccontinuación, este y el resto de archivos generados durante las práctica pueden ser encontrado en el siguiente repositorio: https://github.com/corgazp/ADO-PEC2 
 
 ````
 ## ----setup, include=FALSE------------------------------------------------------------------------------------------------------
